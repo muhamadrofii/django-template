@@ -44,6 +44,12 @@ venv\Scripts\activate     # Untuk Windows
 
 ### 2. Instalasi Dependensi
 
+masuk ke direktori:
+
+```bash
+cd myproject
+```
+
 Instal semua dependensi yang diperlukan menggunakan `pip`:
 
 ```bash
